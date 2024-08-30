@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahan Nimantha</h1>
-<h3 align="center">A passionate web developer from Srilanka</h3>
+<h3 align="center">A passionate full stack developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21281532&label=Profile%20views&color=0e75b6&style=flat" alt="it21281532" /> </p>
 
